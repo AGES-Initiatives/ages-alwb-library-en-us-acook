@@ -122,12 +122,12 @@ EleftheraMenIKtisis3.text = "Only the champion of darkness is groaning."
 EleftheraMenIKtisis4.text = "Now let the formerly wretched inheritance"
 EleftheraMenIKtisis5.text = "of the Nations bless eagerly Him who caused this."
 
-ElilythasEkParthenou.notmetered = "N/M ()"
-ElilythasEkParthenou.name = "N/M"
+ElilythasEkParthenou.notmetered = "N/M (You came, O Lord.)"
+ElilythasEkParthenou.name = "You came, O Lord."
 ElilythasEkParthenou.incipit = "You came, O Lord…"
 ElilythasEkParthenou.mode = misc_en_US_acook.Mode2
 ElilythasEkParthenou.ode = misc_en_US_acook.Ode4
-ElilythasEkParthenou.text = "You came, O Lord, * not an elder nor angel, but You yourself, * God incarnate, being born of a pure Virgin, thus saving me * and all of humanity. * Therefore I sing to You: * Glory to Your power, O Lord!"
+ElilythasEkParthenou.text = "You came, O Lord, * not an elder nor angel, but You yourself, * God incarnate, being born of a pure Virgin, thus saving me * and all of humanity. * Therefore I sing to You: * Glory to Your strength, O Lord!"
 
 EmegalynasChriste.notmetered = "N/M (You have magnified.)"
 EmegalynasChriste.name = "You have magnified."
