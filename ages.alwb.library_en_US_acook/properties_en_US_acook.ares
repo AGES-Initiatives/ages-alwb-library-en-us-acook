@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = properties_en_US_acook
 
 version.designation = "AC"
+version.name = "Anthony Cook."
 version.translator = "Translated by Anthony Cook"
 
 version.notice1 = ""
