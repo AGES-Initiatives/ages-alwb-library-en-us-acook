@@ -26,27 +26,27 @@ AsomenToKyrio.text = ""
 
 AstektoPyri.notmetered = "N/M (Unharmed were the young men.)"
 AstektoPyri.name = "Unharmed were the young men."
-AstektoPyri.incipit = "Unharmed were the young men…"
+AstektoPyri.incipit = "…"
 AstektoPyri.melody = misc_en_US_acook.Heirmos
 AstektoPyri.mode = misc_en_US_acook.Mode3
 AstektoPyri.ode = misc_en_US_acook.Ode8
-AstektoPyri.text = "Unharmed were the young men, who were champions * of belief in God, when they were thrown into the furnace * and they faced unbearable fire; and they sang a hymn to God: * \"All you works of the Lord, bless the Lord, * and exalt Him beyond measure unto all the ages.\""
+AstektoPyri.text = ""
 
 AvyssosEschati.notmetered = "N/M (Sinfulness encircles me.)"
 AvyssosEschati.name = "Sinfulness encircles me."
-AvyssosEschati.incipit = "Sinfulness encircles me…"
+AvyssosEschati.incipit = "…"
 AvyssosEschati.melody = misc_en_US_acook.Heirmos
 AvyssosEschati.mode = misc_en_US_acook.Mode3
 AvyssosEschati.ode = misc_en_US_acook.Ode6
-AvyssosEschati.text = "Sinfulness encircles me as the lowest depth did Jonah, * and my spirit is failing me. * I cry out to You, O Master. Reach out Your exalted arm. * Pilot, rescue me, as You saved Your Apostle of old."
+AvyssosEschati.text = ""
 
 ChersonAvyssotokon.notmetered = "N/M (Sunlight once hovered.)"
 ChersonAvyssotokon.name = "Sunlight once hovered."
-ChersonAvyssotokon.incipit = "Sunlight once hovered…"
+ChersonAvyssotokon.incipit = "…"
 ChersonAvyssotokon.melody = misc_en_US_acook.Heirmos
 ChersonAvyssotokon.mode = misc_en_US_acook.Mode3
 ChersonAvyssotokon.ode = misc_en_US_acook.Ode1
-ChersonAvyssotokon.text = "Sunlight once hovered over the abyssal plain that was rendered dry of old. * For on either side the water like a wall became solid, * and people walked across on dry land and sang an ode, pleasing to God, * \"Sing to the Lord, who triumphed; for He is greatly glorified.\""
+ChersonAvyssotokon.text = ""
 
 EisakikoaTinAkoin.notmetered = "N/M ()"
 EisakikoaTinAkoin.name = ""
@@ -58,19 +58,19 @@ EisakikoaTinAkoin.text = ""
 
 EkalypsenOuranous.notmetered = "N/M (The heavens were covered.)"
 EkalypsenOuranous.name = "The heavens were covered."
-EkalypsenOuranous.incipit = "The heavens were covered…"
+EkalypsenOuranous.incipit = "…"
 EkalypsenOuranous.melody = misc_en_US_acook.Heirmos
 EkalypsenOuranous.mode = misc_en_US_acook.Mode3
 EkalypsenOuranous.ode = misc_en_US_acook.Ode4
-EkalypsenOuranous.text = "The heavens were covered by Your virtue, O Christ. * For coming forth from the Ark of Your holiness, Your Mother who sustained no corruption, * You appeared today in Your glorious Temple, as an infant held in arms. * And the entire creation was filled with Your praise."
+EkalypsenOuranous.text = ""
 
 EnNomoSkia.notmetered = "N/M (In the shadow and the letter.)"
 EnNomoSkia.name = "In the shadow and the letter."
-EnNomoSkia.incipit = "In the shadow and the letter…"
+EnNomoSkia.incipit = "…"
 EnNomoSkia.melody = misc_en_US_acook.Heirmos
 EnNomoSkia.mode = misc_en_US_acook.Mode3
 EnNomoSkia.ode = misc_en_US_acook.Ode9
-EnNomoSkia.text = "In the shadow and the letter of the Law, * we the faithful perceive the decree: * Consecrate to God every male, the first-born opening the womb. * Now the unoriginate Father's first-born Logos and Son * is also first-born of a virgin Mother, and we magnify Him."
+EnNomoSkia.text = ""
 
 EnSinaioToOrei.notmetered = "N/M ()"
 EnSinaioToOrei.name = ""
@@ -94,7 +94,7 @@ EpiTisGis.incipit = "…"
 EpiTisGis.melody = misc_en_US_acook.Heirmos
 EpiTisGis.mode = misc_en_US_acook.Mode3
 EpiTisGis.ode = misc_en_US_acook.Ode5
-EpiTisGis.text = "Although invisible, You were seen on earth, and although incomprehensible, you willingly dwelt among men. We rise early to you and sing Your praises, O Lover of humanity."
+EpiTisGis.text = ""
 
 EstereothiIKardiaMou.notmetered = "N/M ()"
 EstereothiIKardiaMou.name = ""
@@ -110,7 +110,7 @@ EthouProsImas.incipit = "…"
 EthouProsImas.melody = misc_en_US_acook.Heirmos
 EthouProsImas.mode = misc_en_US_acook.Mode3
 EthouProsImas.ode = misc_en_US_acook.Ode4
-EthouProsImas.text = "Lord, You have established a mighty love of Your strength for us; * God of our deliverance, You gave Your only-begotten Son to die for us. * And now with thanksgiving we sing out and praise You: * Glory to You strength, O Lord!"
+EthouProsImas.text = ""
 
 EvlogitosKyrios.notmetered = "N/M (Blessed is the Lord.)"
 EvlogitosKyrios.name = ""
@@ -118,7 +118,7 @@ EvlogitosKyrios.incipit = "…"
 EvlogitosKyrios.melody = misc_en_US_acook.Heirmos
 EvlogitosKyrios.mode = misc_en_US_acook.Mode3
 EvlogitosKyrios.ode = misc_en_US_acook.Ode9
-EvlogitosKyrios.text = "Blessed is the Lord God of Israel, who has raised up a horn of salvation for us in the house of His servant David, through the tender mercy of our God, with which the Dayspring from on high has visited us; to guide us into the way of peace."
+EvlogitosKyrios.text = ""
 
 EvoisaEnStenagmois.notmetered = "N/M ()"
 EvoisaEnStenagmois.name = ""
@@ -130,11 +130,11 @@ EvoisaEnStenagmois.text = ""
 
 EvoiseSoi.notmetered = "N/M (To You, the Elder.)"
 EvoiseSoi.name = "To You, the Elder."
-EvoiseSoi.incipit = "To You, the Elder…"
+EvoiseSoi.incipit = "…"
 EvoiseSoi.melody = misc_en_US_acook.Heirmos
 EvoiseSoi.mode = misc_en_US_acook.Mode3
 EvoiseSoi.ode = misc_en_US_acook.Ode6
-EvoiseSoi.text = "To You, the Elder cried out, on seeing * with his own eyes the salvation that You prepared for all people, * \"God from God are You, Christ my Savior.\""
+EvoiseSoi.text = ""
 
 FaraoTaArmata.notmetered = "N/M ()"
 FaraoTaArmata.name = ""
@@ -162,11 +162,11 @@ IdeteIdete.text = ""
 
 KainonToThavma.notmetered = "N/M (O novel wonder.)"
 KainonToThavma.name = "O novel wonder."
-KainonToThavma.incipit = "O novel wonder…"
+KainonToThavma.incipit = "…"
 KainonToThavma.melody = misc_en_US_acook.Heirmos
 KainonToThavma.mode = misc_en_US_acook.Mode3
 KainonToThavma.ode = misc_en_US_acook.Ode9
-KainonToThavma.text = "O novel wonder and befitting God! * for the Lord himself has manifestly traversed * the gate of the Virgin, which was shut. * Raw God in His entry, * in His emergence He appeared as One bearing flesh, * the gate remaining shut notwithstanding. * She is unutterably God's Mother, and her we magnify."
+KainonToThavma.text = ""
 
 LatreveinZontiTheo.notmetered = "N/M ()"
 LatreveinZontiTheo.name = ""
@@ -186,19 +186,19 @@ MiEnPotamois.text = ""
 
 OEkMiOnton.notmetered = "N/M (From non-existence.)"
 OEkMiOnton.name = "From non-existence."
-OEkMiOnton.incipit = "From non-existence…"
+OEkMiOnton.incipit = "…"
 OEkMiOnton.melody = misc_en_US_acook.Heirmos
 OEkMiOnton.mode = misc_en_US_acook.Mode3
 OEkMiOnton.ode = misc_en_US_acook.Ode3
-OEkMiOnton.text = "From non-existence You brought forth all things, O God, * through the Word creating them, in the Spirit perfecting them. * Ruler over all, Most High, * firmly establish me in Your love, O Master."
+OEkMiOnton.text = ""
 
 OTaYdata.notmetered = "N/M (He who gathered the water.)"
 OTaYdata.name = "He who gathered the water."
-OTaYdata.incipit = "He who gathered the water…"
+OTaYdata.incipit = "…"
 OTaYdata.melody = misc_en_US_acook.Heirmos
 OTaYdata.mode = misc_en_US_acook.Mode3
 OTaYdata.ode = misc_en_US_acook.Ode1
-OTaYdata.text = "He who gathered the water into its places * of old by divine decree is the same One * who for the Israelite people parted the sea. * He is our God and Lord, and He is glorified greatly. * To Him only let us sing, for He is glorified."
+OTaYdata.text = ""
 
 OTinFloga.notmetered = "N/M ()"
 OTinFloga.name = ""
@@ -226,11 +226,11 @@ OrthrizontesAnymnoumen.text = ""
 
 OsEidenIsaias.notmetered = "N/M (Isaiah had a mystical vision.)"
 OsEidenIsaias.name = "Isaiah had a mystical vision."
-OsEidenIsaias.incipit = "Isaiah had a mystical vision…"
+OsEidenIsaias.incipit = "…"
 OsEidenIsaias.melody = misc_en_US_acook.Heirmos
 OsEidenIsaias.mode = misc_en_US_acook.Mode3
 OsEidenIsaias.ode = misc_en_US_acook.Ode5
-OsEidenIsaias.text = "Isaiah had a mystical vision of God * sitting on a throne lifted up, * and around Him stood the glorious Seraphim. * The Prophet cried out, \"Woe is me! * With my eyes I have foreseen incarnate God; * and He is the Master of never-setting light and peace.\""
+OsEidenIsaias.text = ""
 
 OsOmvrosEpAgrostin.notmetered = "N/M ()"
 OsOmvrosEpAgrostin.name = ""
@@ -266,27 +266,27 @@ ProsecheGiKaiOurane.text = ""
 
 SeTinAkataflekton.notmetered = "N/M (We, O holy Virgin, perceive you.)"
 SeTinAkataflekton.name = "We, O holy Virgin, perceive you."
-SeTinAkataflekton.incipit = "We, O holy Virgin, perceive you…"
+SeTinAkataflekton.incipit = "…"
 SeTinAkataflekton.melody = misc_en_US_acook.Heirmos
 SeTinAkataflekton.mode = misc_en_US_acook.Mode3
 SeTinAkataflekton.ode = misc_en_US_acook.Ode9
-SeTinAkataflekton.text = "We, O holy Virgin, perceive you * as the bush that did not burn, * as the Mother of the Light, and Theotokos, * and the hope of all of us, and we magnify you."
+SeTinAkataflekton.text = ""
 
 SeTinAthanaton.notmetered = "N/M (We ever magnify you. (not metered))"
 SeTinAthanaton.name = "N/M (We ever magnify you. (not metered))"
-SeTinAthanaton.incipit = "We ever magnify you. (not metered)…"
+SeTinAthanaton.incipit = "…"
 SeTinAthanaton.melody = misc_en_US_acook.Heirmos
 SeTinAthanaton.mode = misc_en_US_acook.Mode3
 SeTinAthanaton.ode = misc_en_US_acook.Ode9
-SeTinAthanaton.text = "We ever magnify you, the immortal fountain, that through the saints gives cures and healings to the human race, for you save our souls."
+SeTinAthanaton.text = ""
 
 SeTonEnPyri.notmetered = "N/M (Servants in the furnace.)"
 SeTonEnPyri.name = "Servants in the furnace."
-SeTonEnPyri.incipit = "Servants in the furnace…"
+SeTonEnPyri.incipit = "…"
 SeTonEnPyri.melody = misc_en_US_acook.Heirmos
 SeTonEnPyri.mode = misc_en_US_acook.Mode3
 SeTonEnPyri.ode = misc_en_US_acook.Ode7
-SeTonEnPyri.text = "Servants in the furnace spoke of God. * You bedewed them, O God the Logos; * and You dwelt in the womb of the immaculate, holy Virgin. We praise You * and sing to You devoutly: * Blessed are You, O Lord, the God of our fathers."
+SeTonEnPyri.text = ""
 
 SkinoseosIonas.notmetered = "N/M ()"
 SkinoseosIonas.name = ""
@@ -342,7 +342,7 @@ TinEnVatoKaiPyri.incipit = "…"
 TinEnVatoKaiPyri.melody = misc_en_US_acook.Heirmos
 TinEnVatoKaiPyri.mode = misc_en_US_acook.Mode3
 TinEnVatoKaiPyri.ode = misc_en_US_acook.Ode9
-TinEnVatoKaiPyri.text = "We magnify the only Theotokos. She was prefigured on Sinai to Moses the Lawgiver in the bush and the fire, as the one who would conceive unburnt the Divine Fire in her womb. We honor her with hymns, as the unquenchable lamp shining splendid light."
+TinEnVatoKaiPyri.text = ""
 
 TinSinEirinin.notmetered = "N/M ()"
 TinSinEirinin.name = ""
@@ -374,15 +374,15 @@ ToPrinEikoni.incipit = "…"
 ToPrinEikoni.melody = misc_en_US_acook.Heirmos
 ToPrinEikoni.mode = misc_en_US_acook.Mode3
 ToPrinEikoni.ode = misc_en_US_acook.Ode7
-ToPrinEikoni.text = "Those three Servants of old would not worship the golden image and Persian deity; rather standing in the furnace they sang this hymn: \"Blessed are You, O God of our Fathers.\""
+ToPrinEikoni.text = ""
 
 ToStereoma.notmetered = "N/M (As the firm support.)"
 ToStereoma.name = "As the firm support."
-ToStereoma.incipit = "As the firm support…"
+ToStereoma.incipit = "…"
 ToStereoma.melody = misc_en_US_acook.Heirmos
 ToStereoma.mode = misc_en_US_acook.Mode3
 ToStereoma.ode = misc_en_US_acook.Ode3
-ToStereoma.text = "As the firm support of those who hope in You firmly, * O Lord and our Savior, support us, Your holy * Church You purchased * with Your most precious blood, O Christ."
+ToStereoma.text = ""
 
 ToXenonKaiAporriton.notmetered = "N/M ()"
 ToXenonKaiAporriton.name = ""
@@ -402,11 +402,11 @@ TonEnFlogi.text = ""
 
 TonExAnarchou.notmetered = "N/M (Extol Him who is God. (not metered))"
 TonExAnarchou.name = "N/M (Extol Him who is God. (not metered))"
-TonExAnarchou.incipit = "Extol Him who is God. (not metered)…"
+TonExAnarchou.incipit = "…"
 TonExAnarchou.melody = misc_en_US_acook.Heirmos
 TonExAnarchou.mode = misc_en_US_acook.Mode3
 TonExAnarchou.ode = misc_en_US_acook.Ode8
-TonExAnarchou.text = "Extol Him who is God, who before the ages was begotten from the unoriginate Father, and who in latter times put on flesh from the Theotokos. He is perfect man, and God from God. Extol Him and bless Him, and supremely exalt Him, unto all the ages."
+TonExAnarchou.text = ""
 
 TonYpAngelon.notmetered = "N/M ()"
 TonYpAngelon.name = ""
@@ -446,7 +446,7 @@ VavyloniaKaminos.incipit = "…"
 VavyloniaKaminos.melody = misc_en_US_acook.Heirmos
 VavyloniaKaminos.mode = misc_en_US_acook.Mode3
 VavyloniaKaminos.ode = misc_en_US_acook.Ode8
-VavyloniaKaminos.text = "The furnace in Babylon did not burn the Servants, nor did the fire of the Godhead injure the Virgin. Therefore, O believers, let us sing with the Servants: \"O you works of the Lord, bless the Lord.\""
+VavyloniaKaminos.text = ""
 
 VythosMoiTonPathon.notmetered = "N/M ()"
 VythosMoiTonPathon.name = ""
