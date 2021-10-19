@@ -40,8 +40,8 @@ AperripsasMe.mode = misc_en_US_acook.Mode1
 AperripsasMe.ode = misc_en_US_acook.Ode6
 AperripsasMe.text = ""
 
-AsomenPantesLaoi.notmetered = "N/M ()"
-AsomenPantesLaoi.name = ""
+AsomenPantesLaoi.notmetered = "N/M (All people, sing to the Lord.)"
+AsomenPantesLaoi.name = "All people, sing to the Lord."
 AsomenPantesLaoi.incipit = "…"
 AsomenPantesLaoi.melody = misc_en_US_acook.Heirmos
 AsomenPantesLaoi.mode = misc_en_US_acook.Mode1
@@ -124,6 +124,14 @@ EkNyktosOrthrizontes.melody = misc_en_US_acook.Heirmos
 EkNyktosOrthrizontes.mode = misc_en_US_acook.Mode1
 EkNyktosOrthrizontes.ode = misc_en_US_acook.Ode5
 EkNyktosOrthrizontes.text = "Rising early in the morning, we extol You, O Christ our God, who for us became poor, and endured the Cross and death in the flesh."
+
+EkNyktosOrthrizontesYmnoumenSe.notmetered = "N/M (Rising from the night, we sing.)"
+EkNyktosOrthrizontesYmnoumenSe.name = "Rising from the night, we sing."
+EkNyktosOrthrizontesYmnoumenSe.incipit = "Rising from the night, we sing…"
+EkNyktosOrthrizontesYmnoumenSe.melody = misc_en_US_acook.Heirmos
+EkNyktosOrthrizontesYmnoumenSe.mode = misc_en_US_acook.Mode1
+EkNyktosOrthrizontesYmnoumenSe.ode = misc_en_US_acook.Ode5
+EkNyktosOrthrizontesYmnoumenSe.text = ""
 
 EkyklosenImas.notmetered = "N/M ()"
 EkyklosenImas.name = ""
@@ -311,8 +319,8 @@ LithonOnApedokimasan.mode = misc_en_US_acook.Mode1
 LithonOnApedokimasan.ode = misc_en_US_acook.Ode3
 LithonOnApedokimasan.text = "As the Psalmist said, the stone that the builders had rejected * has itself become now the head of the corner. * And furthermore the same is the rock on which Christ our God * firmly established His own Church, * which from the Gentiles He redeemed for himself."
 
-MegaToMystirion.notmetered = "N/M ()"
-MegaToMystirion.name = ""
+MegaToMystirion.notmetered = "N/M (God-inspired Habakkuk.)"
+MegaToMystirion.name = "God-inspired Habakkuk."
 MegaToMystirion.incipit = "…"
 MegaToMystirion.melody = misc_en_US_acook.Heirmos
 MegaToMystirion.mode = misc_en_US_acook.Mode1
@@ -566,7 +574,7 @@ SeNoitin.mode = misc_en_US_acook.Mode1
 SeNoitin.ode = misc_en_US_acook.Ode7
 SeNoitin.text = ""
 
-SeTinFaeinin.notmetered = "N/M (Mother of our God, we see you.)"
+SeTinFaeinin.notmetered = "N/M (Mother of our God, we praise you.)"
 SeTinFaeinin.name = "You, the brightly shining."
 SeTinFaeinin.incipit = "You, the brightly shining…"
 SeTinFaeinin.melody = misc_en_US_acook.Heirmos
@@ -622,8 +630,8 @@ StereosonKyrie.mode = misc_en_US_acook.Mode1
 StereosonKyrie.ode = misc_en_US_acook.Ode3
 StereosonKyrie.text = ""
 
-StereosonMeChriste.notmetered = "N/M (Establish me firmly.)"
-StereosonMeChriste.name = "Establish me firmly."
+StereosonMeChriste.notmetered = "N/M (Establish me on the rock.)"
+StereosonMeChriste.name = "Establish me on the rock."
 StereosonMeChriste.incipit = "…"
 StereosonMeChriste.melody = misc_en_US_acook.Heirmos
 StereosonMeChriste.mode = misc_en_US_acook.Mode1
@@ -776,13 +784,13 @@ TonEnSofiaTousOuranous.mode = misc_en_US_acook.Mode1
 TonEnSofiaTousOuranous.ode = misc_en_US_acook.Ode8
 TonEnSofiaTousOuranous.text = ""
 
-TonProfitinDiesosas.notmetered = "N/M (As You saved Prophet Jonah.)"
-TonProfitinDiesosas.name = "As You saved Prophet Jonah."
-TonProfitinDiesosas.incipit = "As You saved Prophet Jonah…"
+TonProfitinDiesosas.notmetered = "N/M (As You rescued the Prophet.)"
+TonProfitinDiesosas.name = "As You rescued the Prophet."
+TonProfitinDiesosas.incipit = "As You rescued the Prophet…"
 TonProfitinDiesosas.melody = misc_en_US_acook.Heirmos
 TonProfitinDiesosas.mode = misc_en_US_acook.Mode1
 TonProfitinDiesosas.ode = misc_en_US_acook.Ode6
-TonProfitinDiesosas.text = "As You saved Prophet Jonah from the belly of the whale of old, * I pray raise me up from the sea of my sins, in Your love for man."
+TonProfitinDiesosas.text = "As You rescued the Prophet from the belly of the whale of old, * I pray bring me up from the sea of my sins, in Your love for man."
 
 TonProfitinIonan.notmetered = "N/M (Imitating the inspired Prophet.)"
 TonProfitinIonan.name = "Imitating the inspired Prophet."
