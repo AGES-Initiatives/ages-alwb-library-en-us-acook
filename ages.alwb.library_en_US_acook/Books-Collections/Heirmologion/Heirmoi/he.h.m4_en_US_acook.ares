@@ -141,8 +141,8 @@ AvramiaioiPote.mode = misc_en_US_acook.Mode4
 AvramiaioiPote.ode = misc_en_US_acook.Ode7
 AvramiaioiPote.text = "Servants in Babylon, of old, * those three descendants of Abraham, trampled on the furnace fire. * In hymns they cried out to You, * \"O Lord and God of our fathers, You are blessed.\""
 
-ChairoisAnassa.notmetered = "N/M (Theotokos, Queen of all.)"
-ChairoisAnassa.name = "Theotokos, Queen of all."
+ChairoisAnassa.notmetered = "N/M (Theotokos, rejoice! Queen of all.)"
+ChairoisAnassa.name = "Theotokos, rejoice! Queen of all."
 ChairoisAnassa.incipit = ""
 ChairoisAnassa.melody = misc_en_US_acook.Heirmos
 ChairoisAnassa.mode = misc_en_US_acook.Mode4
