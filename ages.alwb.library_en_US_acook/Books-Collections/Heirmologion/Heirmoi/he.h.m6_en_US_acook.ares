@@ -400,8 +400,8 @@ TheonAnthropois.mode = misc_en_US_acook.Mode6
 TheonAnthropois.ode = misc_en_US_acook.Ode9
 TheonAnthropois.text = "It is impossible for God to be seen * by people; and angelic orders dare not to look at Him. * But the Word incarnate has been seen by mankind, through you, O all-pure Virgin. * Now magnifying Him, * joining the celestial hosts, all generations call you blest."
 
-TheonPateraDimiourgon.notmetered = "N/M ()"
-TheonPateraDimiourgon.name = ""
+TheonPateraDimiourgon.notmetered = "N/M (The three young men.)"
+TheonPateraDimiourgon.name = "The three young men."
 TheonPateraDimiourgon.incipit = "…"
 TheonPateraDimiourgon.melody = misc_en_US_acook.Heirmos
 TheonPateraDimiourgon.mode = misc_en_US_acook.Mode6
