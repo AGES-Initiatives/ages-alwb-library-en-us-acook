@@ -155,7 +155,7 @@ EnPnevmatiProvlepon.incipit = "When you, Prophet Habbakuk…"
 EnPnevmatiProvlepon.melody = misc_en_US_acook.Heirmos
 EnPnevmatiProvlepon.mode = misc_en_US_acook.Mode1
 EnPnevmatiProvlepon.ode = misc_en_US_acook.Ode4
-EnPnevmatiProvlepon.text = "When you, Prophet Habbakuk, inspired had foreseen * the incarnation of the Word, you shouted and declared, * \"In the approaching years You shall be acknowledged; * You will be revealed when the time comes. * Glory to Your power, O Lord.\""
+EnPnevmatiProvlepon.text = "When you, Prophet Habbakuk, inspired had foreseen * the incarnation of the Word, you shouted and declared, * \"In the approaching years You shall be acknowledged; * You will be revealed when the time comes. * Glory to Your strength, O Lord.\""
 
 EpainonOTheoptis.notmetered = "N/M ()"
 EpainonOTheoptis.name = ""
@@ -699,8 +699,8 @@ TinFotoforonNefelin.mode = misc_en_US_acook.Mode1
 TinFotoforonNefelin.ode = misc_en_US_acook.Ode9
 TinFotoforonNefelin.text = "The cloud that radiates brightly * and into which, as the rain fell * upon the fleece, the Lord of all * from the heavens descended * and was incarnated for us * becoming a man, though Unoriginate, * the immaculate Mother * of our God do we all magnify in song."
 
-TinSinEirinin.notmetered = "N/M ()"
-TinSinEirinin.name = ""
+TinSinEirinin.notmetered = "N/M (O Son and Word.)"
+TinSinEirinin.name = "O Son and Word."
 TinSinEirinin.incipit = "…"
 TinSinEirinin.melody = misc_en_US_acook.Heirmos
 TinSinEirinin.mode = misc_en_US_acook.Mode1
@@ -816,8 +816,8 @@ TonTyponTouTheiouStavrou.mode = misc_en_US_acook.Mode1
 TonTyponTouTheiouStavrou.ode = misc_en_US_acook.Ode6
 TonTyponTouTheiouStavrou.text = "When Jonah was in the belly of the whale, * he extended his arms and thus foreshadowed the figure of Your holy Cross, O Lord. * Then he bounded forth * from the monster, being saved by Your power, O Logos."
 
-TousEnKaminoPaidas.notmetered = "N/M ()"
-TousEnKaminoPaidas.name = "N/M ()"
+TousEnKaminoPaidas.notmetered = "N/M (O Lord and Savior.)"
+TousEnKaminoPaidas.name = "O Lord and Savior."
 TousEnKaminoPaidas.incipit = "N/M…"
 TousEnKaminoPaidas.melody = misc_en_US_acook.Heirmos
 TousEnKaminoPaidas.mode = misc_en_US_acook.Mode1
