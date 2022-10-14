@@ -590,14 +590,14 @@ meMA.LaudsGlory.text = ""
 
 meMA.LaudsTheotokion.mode = misc_en_US_acook.Mode8
 meMA.LaudsTheotokion.melody = ""
-meMA.LaudsTheotokion.text = //oc.m8.d5_en_US_acook.ocMA.AposTheotokion.incipit = "…"
+meMA.LaudsTheotokion.incipit = //oc.m8.d5_en_US_acook.ocMA.AposTheotokion.incipit
 meMA.LaudsTheotokion.text = //oc.m8.d5_en_US_acook.ocMA.AposTheotokion.text
 
 meMA.MM.Lauds1123as5678.text = properties_en_US_acook.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.text = meMA.Kontakion1.incipit = "…"
+meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_acook.media.key
@@ -644,7 +644,7 @@ alt1.meMA.Kathisma22.text = ""
 
 alt1.meMA.Kathisma2T.mode = misc_en_US_acook.Mode4
 alt1.meMA.Kathisma2T.melody = he.a.m4_en_US_acook.EpefanisSimeron.name
-alt1.meMA.Kathisma2T.text = //me.m06.d14_en_US_acook.meMA.Ode3KathismaT.incipit = "…"
+alt1.meMA.Kathisma2T.incipit = //me.m06.d14_en_US_acook.meMA.Ode3KathismaT.incipit
 alt1.meMA.Kathisma2T.text = //me.m06.d14_en_US_acook.meMA.Ode3KathismaT.text
 
 alt1.meMA.Kathisma31.poet = //poets_en_US_acook.NikodimouAgioreitou
