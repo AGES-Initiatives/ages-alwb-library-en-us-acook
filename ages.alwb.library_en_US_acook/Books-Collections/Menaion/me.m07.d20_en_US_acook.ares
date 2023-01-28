@@ -114,6 +114,7 @@ meVE.AposTheotokion.incipit = //he.o_en_US_acook.heOT.TheotokeSyEiProfitou.incip
 meVE.AposTheotokion.text = //he.o_en_US_acook.heOT.TheotokeSyEiProfitou.text
 
 meVE.Apolytikion1.mode = miscellanea_en_US_acook.misc.Mode4
+meVE.Apolytikion1.greekmelody = he.a.m4_en_US_acook.heAU.TachyProkatalave.greekname
 meVE.Apolytikion1.melody = he.a.m4_en_US_acook.heAU.TachyProkatalave.name
 meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""

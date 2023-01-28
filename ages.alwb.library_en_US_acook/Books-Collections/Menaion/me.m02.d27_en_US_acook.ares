@@ -49,6 +49,7 @@ meVE.SticStavrotheotokion.text = ""
 
 meVE.Apolytikion1.poet = //poets_en_US_acook.Gerasimou
 meVE.Apolytikion1.mode = miscellanea_en_US_acook.misc.Mode1
+meVE.Apolytikion1.greekmelody = he.a.m1_en_US_acook.heAU.TisErimouPolitis.greekname
 meVE.Apolytikion1.melody = he.a.m1_en_US_acook.heAU.TisErimouPolitis.name
 meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
