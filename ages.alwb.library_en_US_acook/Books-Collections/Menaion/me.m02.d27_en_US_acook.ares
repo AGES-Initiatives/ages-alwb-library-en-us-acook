@@ -238,6 +238,7 @@ meMA.Ode6C1T.incipit = "…"
 meMA.Ode6C1T.text = "O lady, all-pure and blessed * I entreat your healing help * for all the suff’rings of my soul * and my grievous afflictions; restore me now * with spiritual surgery * and pour out now the Passion of your Son for a cure."
 
 meMA.Kontakion1.mode = miscellanea_en_US_acook.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_US_acook.heAU.EpefanisSimeron.greekname
 meMA.Kontakion1.melody = he.a.m4_en_US_acook.heAU.EpefanisSimeron.name
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
@@ -350,6 +351,7 @@ meMA.ExapTheotokion.incipit = "…"
 meMA.ExapTheotokion.text = ""
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
