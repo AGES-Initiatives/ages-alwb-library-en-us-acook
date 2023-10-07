@@ -1,59 +1,5 @@
 A_Resource_Whose_Name = me.m02.d27_en_US_acook
 
-meDA.date = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meDA.commemoration.full = "" //full title of day
-meDA.commemoration.first = ""
-meDA.commemoration.first_short = ""
-meDA.commemoration.first_title = //titles_en_US_dedes.ti.DevoutSaintM
-meDA.commemoration.first_name = ""
-meDA.commemoration.second_title = ""
-meDA.commemoration.second_name = ""
-meDA.insert1 = "" //for use in petitions and dismissal
-meDA.insert2 = "" //for use in petitions and dismissal
-meDA.note = ""
-meLE.commemoration1 = ""
-meLE.commemoration2 = ""
-meHO.number = ""
-meHO.rank = ""
-meHO.commemorations = ""
-meHO.note1 = ""
-meHO.note2 = ""
-
-meVE.Stichera01.mode = miscellanea_en_US_acook.misc.Mode4
-meVE.Stichera01.greekmelody = he.a.m4_en_US_acook.heAU.OsGennaionEnMartysi.greekname
-meVE.Stichera01.melody = he.a.m4_en_US_acook.heAU.OsGennaionEnMartysi.name
-meVE.Stichera01.incipit = "…"
-meVE.Stichera01.text = ""
-
-meVE.Stichera02.mode = miscellanea_en_US_acook.misc.Mode4
-meVE.Stichera02.melody = he.a.m4_en_US_acook.heAU.OsGennaionEnMartysi.name
-meVE.Stichera02.incipit = "…"
-meVE.Stichera02.text = ""
-
-meVE.Stichera03.mode = miscellanea_en_US_acook.misc.Mode4
-meVE.Stichera03.melody = he.a.m4_en_US_acook.heAU.OsGennaionEnMartysi.name
-meVE.Stichera03.incipit = "…"
-meVE.Stichera03.text = ""
-
-meVE.SticTheotokion.mode = miscellanea_en_US_acook.misc.Mode4
-meVE.SticTheotokion.greekmelody = he.a.m4_en_US_acook.heAU.OsGennaionEnMartysi.greekname
-meVE.SticTheotokion.melody = he.a.m4_en_US_acook.heAU.OsGennaionEnMartysi.name
-meVE.SticTheotokion.incipit = //oc.m4.d5_en_US_acook.ocVE.SticTheotokion.incipit
-meVE.SticTheotokion.text = //oc.m4.d5_en_US_acook.ocVE.SticTheotokion.text
-
-meVE.SticStavrotheotokion.mode = miscellanea_en_US_acook.misc.Mode4
-meVE.SticStavrotheotokion.greekmelody = he.a.m4_en_US_acook.heAU.OsGennaionEnMartysi.greekname
-meVE.SticStavrotheotokion.melody = he.a.m4_en_US_acook.heAU.OsGennaionEnMartysi.name
-meVE.SticStavrotheotokion.incipit = "…"
-meVE.SticStavrotheotokion.text = ""
-
-meVE.Apolytikion1.poet = //poets_en_US_acook.Gerasimou
-meVE.Apolytikion1.mode = miscellanea_en_US_acook.misc.Mode1
-meVE.Apolytikion1.greekmelody = he.a.m1_en_US_acook.heAU.TisErimouPolitis.greekname
-meVE.Apolytikion1.melody = he.a.m1_en_US_acook.heAU.TisErimouPolitis.name
-meVE.Apolytikion1.incipit = "…"
-meVE.Apolytikion1.text = ""
-
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
@@ -124,22 +70,6 @@ meMA.Ode3C1T.mode = miscellanea_en_US_acook.misc.Mode6
 meMA.Ode3C1T.melody = he.h.m6_en_US_acook.heHE.OukEstinAgios.name
 meMA.Ode3C1T.incipit = "…"
 meMA.Ode3C1T.text = "Before all he who is the Word * wisdom true of the Father * was incarnate in latter * days; his mother knew no man * in a miraculous way * he perfected her as the true Mother of God."
-
-meMA.Ode3Kathisma1.mode = miscellanea_en_US_acook.misc.Mode1
-meMA.Ode3Kathisma1.greekmelody = he.a.m1_en_US_acook.heAU.TouLithouSfragisthentos.greekname
-meMA.Ode3Kathisma1.melody = he.a.m1_en_US_acook.heAU.TouLithouSfragisthentos.name
-meMA.Ode3Kathisma1.incipit = "…"
-meMA.Ode3Kathisma1.text = ""
-
-meMA.Ode3KathismaT.mode = miscellanea_en_US_acook.misc.Mode1
-meMA.Ode3KathismaT.melody = he.a.m1_en_US_acook.heAU.TouLithouSfragisthentos.name
-meMA.Ode3KathismaT.incipit = //me.m02.d13_en_US_acook.meMA.Ode3KathismaT.incipit
-meMA.Ode3KathismaT.text = //me.m02.d13_en_US_acook.meMA.Ode3KathismaT.text
-
-meMA.Ode3KathismaSt.mode = miscellanea_en_US_acook.misc.Mode1
-meMA.Ode3KathismaSt.melody = he.a.m1_en_US_acook.heAU.TouLithouSfragisthentos.name
-meMA.Ode3KathismaSt.incipit = "…"
-meMA.Ode3KathismaSt.text = ""
 
 meMA.Ode4C1H.ode = miscellanea_en_US_acook.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_acook.misc.Mode6
@@ -236,12 +166,6 @@ meMA.Ode6C1T.mode = miscellanea_en_US_acook.misc.Mode6
 meMA.Ode6C1T.melody = he.h.m6_en_US_acook.heHE.TouViouTinThalassan.name
 meMA.Ode6C1T.incipit = "…"
 meMA.Ode6C1T.text = "O lady, all-pure and blessed * I entreat your healing help * for all the suff’rings of my soul * and my grievous afflictions; restore me now * with spiritual surgery * and pour out now the Passion of your Son for a cure."
-
-meMA.Kontakion1.mode = miscellanea_en_US_acook.misc.Mode4
-meMA.Kontakion1.greekmelody = he.a.m4_en_US_acook.heAU.EpefanisSimeron.greekname
-meMA.Kontakion1.melody = he.a.m4_en_US_acook.heAU.EpefanisSimeron.name
-meMA.Kontakion1.incipit = "…"
-meMA.Kontakion1.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_acook.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_acook.misc.Mode6
@@ -349,12 +273,3 @@ meMA.ExapTheotokion.mode = miscellanea_en_US_acook.misc.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_en_US_acook.heAU.GynaikesAkoutisthite.name
 meMA.ExapTheotokion.incipit = "…"
 meMA.ExapTheotokion.text = ""
-
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
-
-meLI.Megalynarion.text = ""
-
