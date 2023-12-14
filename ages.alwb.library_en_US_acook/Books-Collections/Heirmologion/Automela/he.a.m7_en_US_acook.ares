@@ -8,7 +8,7 @@ heAU.KatafronisantesPanton.mode = miscellanea_en_US_acook.misc.Mode7
 heAU.KatafronisantesPanton.notmetered = "N/M (When you had wisely.)"
 heAU.KatafronisantesPanton.name = "When you had wisely."
 heAU.KatafronisantesPanton.incipit = "When you had wisely…"
-heAU.KatafronisantesPanton.text = "When you had wisely despised everything on earth, * O holy martyr Saints, * and had courageously acknowledged Christ in the stadium, * in return for the tortures you received your rewards from Him. * Now that you have acquired access to God the omnipotent, * we beseech you most fervently * to entreat Him in earnest * to save the souls of us sinners who flee to you."
+heAU.KatafronisantesPantontext = ""
 
 heAU.ODiEmeAnaschomenos.greekname = ""
 heAU.ODiEmeAnaschomenos.melody = miscellanea_en_US_acook.misc.Automelon
@@ -16,7 +16,7 @@ heAU.ODiEmeAnaschomenos.mode = miscellanea_en_US_acook.misc.Mode7
 heAU.ODiEmeAnaschomenos.notmetered = "N/M (O Christ God.)"
 heAU.ODiEmeAnaschomenos.name = ""
 heAU.ODiEmeAnaschomenos.incipit = "…"
-heAU.ODiEmeAnaschomenos.text = "O Christ God, who for me endured being nailed to the Cross, accept my vigilant praise, in Your love for humanity."
+heAU.ODiEmeAnaschomenostext = ""
 
 heAU.OsEchousaToSympathes.greekname = ""
 heAU.OsEchousaToSympathes.melody = miscellanea_en_US_acook.misc.Automelon
@@ -24,7 +24,7 @@ heAU.OsEchousaToSympathes.mode = miscellanea_en_US_acook.misc.Mode7
 heAU.OsEchousaToSympathes.notmetered = "N/M ()"
 heAU.OsEchousaToSympathes.name = ""
 heAU.OsEchousaToSympathes.incipit = "…"
-heAU.OsEchousaToSympathes.text = ""
+heAU.OsEchousaToSympathestext = ""
 
 heAU.OuketiFloginiRomfaia.greekname = ""
 heAU.OuketiFloginiRomfaia.melody = miscellanea_en_US_acook.misc.Automelon
@@ -32,7 +32,7 @@ heAU.OuketiFloginiRomfaia.mode = miscellanea_en_US_acook.misc.Mode7
 heAU.OuketiFloginiRomfaia.notmetered = "N/M (The fiery sword.)"
 heAU.OuketiFloginiRomfaia.name = "The fiery sword."
 heAU.OuketiFloginiRomfaia.incipit = "The fiery sword…"
-heAU.OuketiFloginiRomfaia.text = "The fiery sword is not guarding the entrance to Eden anymore. For it was extinguished in paradoxical manner by the tree of the Cross. The sting of death and the victory of Hades have been stricken. And You, my Savior, came and cried out to those in Hades: Enter again into Paradise."
+heAU.OuketiFloginiRomfaiatext = ""
 
 heAU.OukEtiKolyometha.greekname = ""
 heAU.OukEtiKolyometha.melody = miscellanea_en_US_acook.misc.Automelon
@@ -40,7 +40,7 @@ heAU.OukEtiKolyometha.mode = miscellanea_en_US_acook.misc.Mode7
 heAU.OukEtiKolyometha.notmetered = "N/M (No longer are we barred.)"
 heAU.OukEtiKolyometha.name = "No longer are we barred."
 heAU.OukEtiKolyometha.incipit = "No longer are we barred…"
-heAU.OukEtiKolyometha.text = "No longer are we barred from the tree of life, * for we have the hope of Your Cross, O Master. * Glory to You, O Lord."
+heAU.OukEtiKolyomethatext = ""
 
 heAU.PyrosFoteinoteron.greekname = ""
 heAU.PyrosFoteinoteron.melody = miscellanea_en_US_acook.misc.Automelon
@@ -48,7 +48,7 @@ heAU.PyrosFoteinoteron.mode = miscellanea_en_US_acook.misc.Mode7
 heAU.PyrosFoteinoteron.notmetered = "N/M (More dazzling than flame.)"
 heAU.PyrosFoteinoteron.name = "More dazzling than flame."
 heAU.PyrosFoteinoteron.incipit = "…"
-heAU.PyrosFoteinoteron.text = ""
+heAU.PyrosFoteinoterontext = ""
 
 heAU.SimeronGrigoreiOIoudas.greekname = ""
 heAU.SimeronGrigoreiOIoudas.melody = miscellanea_en_US_acook.misc.Automelon
@@ -56,7 +56,7 @@ heAU.SimeronGrigoreiOIoudas.mode = miscellanea_en_US_acook.misc.Mode7
 heAU.SimeronGrigoreiOIoudas.notmetered = "N/M (Judas today is vigilant.)"
 heAU.SimeronGrigoreiOIoudas.name = "Judas today is vigilant."
 heAU.SimeronGrigoreiOIoudas.incipit = "Judas today is vigilant…"
-heAU.SimeronGrigoreiOIoudas.text = "Judas today is vigilant, waiting for his chance to betray the Lord, * Who is pre-eternal, the world's only Savior, * and Who filled with five loaves the thousands of people. * On this day the Teacher is rejected by the lawless one, * who betrayed the Master whose disciple he once had been. * Him who filled the people with the manna he sold for thirty silver coins."
+heAU.SimeronGrigoreiOIoudastext = ""
 
 heAU.XylonZois.greekname = ""
 heAU.XylonZois.melody = miscellanea_en_US_acook.misc.Automelon
@@ -64,4 +64,4 @@ heAU.XylonZois.mode = miscellanea_en_US_acook.misc.Mode7
 heAU.XylonZois.notmetered = "N/M (The tree of life.)"
 heAU.XylonZois.name = "The tree of life."
 heAU.XylonZois.incipit = "The tree of life…"
-heAU.XylonZois.text = ""
+heAU.XylonZoistext = ""

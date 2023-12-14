@@ -25,7 +25,7 @@ heHE.AkoueKori.incipit = "Hearken, O Damsel…"
 heHE.AkoueKori.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.AkoueKori.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.AkoueKori.ode = miscellanea_en_US_acook.misc.Ode8
-heHE.AkoueKori.text = "Hearken, O Damsel, let Gabriel say. * Incline your ear, O Virgin pure, * and hear the counsel of the Most High, ancient and true; * and make ready for your own reception of God. * For through you the Uncontainable associates with mortal men. * And I am therefore rejoicing and shouting: * O all you works of the Lord, * praise and bless the Lord."
+heHE.AkoueKori.text = ""
 
 heHE.AnateilonMoiKyrie.notmetered = "N/M ()"
 heHE.AnateilonMoiKyrie.greekname = ""
@@ -57,7 +57,7 @@ heHE.AnoixoToStomaMou.incipit = "I open my mouth…"
 heHE.AnoixoToStomaMou.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.AnoixoToStomaMou.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.AnoixoToStomaMou.ode = miscellanea_en_US_acook.misc.Ode1
-heHE.AnoixoToStomaMou.text = "I open my mouth and pray the Spirit fill it, like David said, * to pour out a good word to the Queen and Mother of God. * I will celebrate * her feast with joy and gladness * and sing to her merrily, lauding her miracles."
+heHE.AnoixoToStomaMou.text = ""
 
 heHE.AnoixoToStomaMou_Eisodia.notmetered = "N/M (I open my mouth.)"
 heHE.AnoixoToStomaMou_Eisodia.greekname = ""
@@ -66,7 +66,7 @@ heHE.AnoixoToStomaMou_Eisodia.incipit = "I open my mouth…"
 heHE.AnoixoToStomaMou_Eisodia.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.AnoixoToStomaMou_Eisodia.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.AnoixoToStomaMou_Eisodia.ode = miscellanea_en_US_acook.misc.Ode1
-heHE.AnoixoToStomaMou_Eisodia.text = "I open my mouth and pray the Spirit fill it, like David said, * to pour out a good word to the Queen and Mother of God. * I will celebrate * her feast with joy and gladness * and sing to her merrily, lauding her Entry."
+heHE.AnoixoToStomaMou_Eisodia.text = ""
 
 heHE.AnoixoToStomaMou_Koimisis.notmetered = "N/M (I open my mouth.)"
 heHE.AnoixoToStomaMou_Koimisis.greekname = ""
@@ -75,7 +75,7 @@ heHE.AnoixoToStomaMou_Koimisis.incipit = "I open my mouth…"
 heHE.AnoixoToStomaMou_Koimisis.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.AnoixoToStomaMou_Koimisis.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.AnoixoToStomaMou_Koimisis.ode = miscellanea_en_US_acook.misc.Ode1
-heHE.AnoixoToStomaMou_Koimisis.text = "I open my mouth and pray the Spirit fill it, like David said, * to pour out a good word to the Queen and Mother of God. * I will celebrate * her feast with joy and gladness * and sing to her merrily, lauding her Dormition."
+heHE.AnoixoToStomaMou_Koimisis.text = ""
 
 heHE.AnoixoToStomaMou_Syllipsis.notmetered = "N/M (I open my mouth.)"
 heHE.AnoixoToStomaMou_Syllipsis.greekname = ""
@@ -84,7 +84,7 @@ heHE.AnoixoToStomaMou_Syllipsis.incipit = "I open my mouth…"
 heHE.AnoixoToStomaMou_Syllipsis.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.AnoixoToStomaMou_Syllipsis.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.AnoixoToStomaMou_Syllipsis.ode = miscellanea_en_US_acook.misc.Ode1
-heHE.AnoixoToStomaMou_Syllipsis.text = "I open my mouth and pray the Spirit fill it, like David said, * to pour out a good word to the Queen and Mother of God. * I will celebrate * her feast with joy and gladness * and sing to her merrily, lauding her Conceiving."
+heHE.AnoixoToStomaMou_Syllipsis.text = ""
 
 heHE.ApasGigenis.notmetered = "N/M (All you born on earth.)"
 heHE.ApasGigenis.greekname = ""
@@ -93,7 +93,7 @@ heHE.ApasGigenis.incipit = "All you born on earth…"
 heHE.ApasGigenis.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.ApasGigenis.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.ApasGigenis.ode = miscellanea_en_US_acook.misc.Ode9
-heHE.ApasGigenis.text = "All you born on earth, * with festival lamps in hand, in spirit leap for joy; * and all you the heavenly angelic orders, join in and celebrate; * and honoring the sacred wonders of the Mother of God, * sing the joyful salutation, \"O rejoice, * Theotokos, all-blest, ever-virgin pure!\""
+heHE.ApasGigenis.text = ""
 
 heHE.ApasGigenis_Akathist.notmetered = "N/M (All you born on earth.)"
 heHE.ApasGigenis_Akathist.greekname = ""
@@ -102,7 +102,7 @@ heHE.ApasGigenis_Akathist.incipit = "All you born on earth…"
 heHE.ApasGigenis_Akathist.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.ApasGigenis_Akathist.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.ApasGigenis_Akathist.ode = miscellanea_en_US_acook.misc.Ode9
-heHE.ApasGigenis_Akathist.text = "All you born on earth, * with festival lamps in hand, in spirit leap for joy; * and all you the heavenly angelic orders, join in and celebrate; * and honoring the sacred feast of the Mother of God, * sing the joyful salutation, \"O rejoice, * Theotokos, all-blest, ever-virgin pure!\""
+heHE.ApasGigenis_Akathist.text = ""
 
 heHE.ApasGigenis_Eisodia.notmetered = "N/M (All you born.)"
 heHE.ApasGigenis_Eisodia.greekname = ""
@@ -111,7 +111,7 @@ heHE.ApasGigenis_Eisodia.incipit = "All you born on earth…"
 heHE.ApasGigenis_Eisodia.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.ApasGigenis_Eisodia.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.ApasGigenis_Eisodia.ode = miscellanea_en_US_acook.misc.Ode9
-heHE.ApasGigenis_Eisodia.text = "All you born on earth, * with festival lamps in hand, in spirit leap for joy; * and all you the heavenly angelic orders, join in and celebrate; * and honoring the sacred Entry of the Mother of God, * sing the joyful salutation, \"O rejoice, * Theotokos, all-blest, ever-virgin pure!\""
+heHE.ApasGigenis_Eisodia.text = ""
 
 heHE.ApasGigenis_Koimisis.notmetered = "N/M (All you born on earth.)"
 heHE.ApasGigenis_Koimisis.greekname = ""
@@ -120,7 +120,7 @@ heHE.ApasGigenis_Koimisis.incipit = "All you born on earth…"
 heHE.ApasGigenis_Koimisis.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.ApasGigenis_Koimisis.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.ApasGigenis_Koimisis.ode = miscellanea_en_US_acook.misc.Ode9
-heHE.ApasGigenis_Koimisis.text = "All you born on earth, * with festival lamps in hand, in spirit leap for joy; * and all you the heavenly angelic orders, join in and celebrate; * and honor the august Assumption of the Mother of God; * sing the joyful salutation, \"O rejoice, * Theotokos, all-blest, ever-virgin pure!\""
+heHE.ApasGigenis_Koimisis.text = ""
 
 heHE.ArmataFarao.notmetered = "N/M ()"
 heHE.ArmataFarao.greekname = ""
@@ -138,7 +138,7 @@ heHE.AseveisOukOpsontai.incipit = "The ungodly will not see…"
 heHE.AseveisOukOpsontai.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.AseveisOukOpsontai.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.AseveisOukOpsontai.ode = miscellanea_en_US_acook.misc.Ode5
-heHE.AseveisOukOpsontai.text = "The ungodly will not see Your glory, O Christ. * Rather we in the morning rise early and we sing Your praise, * only-begotten Son, the reflection of the Father's glory, Lord who loves mankind."
+heHE.AseveisOukOpsontai.text = ""
 
 heHE.AsomaiSoiKyrie.notmetered = "N/M (I will sing to You.)"
 heHE.AsomaiSoiKyrie.greekname = ""
@@ -147,7 +147,7 @@ heHE.AsomaiSoiKyrie.incipit = "I will sing to You…"
 heHE.AsomaiSoiKyrie.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.AsomaiSoiKyrie.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.AsomaiSoiKyrie.ode = miscellanea_en_US_acook.misc.Ode1
-heHE.AsomaiSoiKyrie.text = "I will sing to You, Lord my God and Savior, * for You have brought Your people out * from bondage in Egypt, * and covered Pharao's chariots and his host * in the Sea of old."
+heHE.AsomaiSoiKyrie.text = ""
 
 heHE.AvramiaioiPote.notmetered = "N/M (Servants in Babylon.)"
 heHE.AvramiaioiPote.greekname = ""
@@ -156,7 +156,7 @@ heHE.AvramiaioiPote.incipit = "Servants in Babylon…"
 heHE.AvramiaioiPote.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.AvramiaioiPote.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.AvramiaioiPote.ode = miscellanea_en_US_acook.misc.Ode7
-heHE.AvramiaioiPote.text = "Servants in Babylon, of old, * those three descendants of Abraham, trampled on the furnace fire. * In hymns they cried out to You, * \"O Lord and God of our fathers, You are blessed.\""
+heHE.AvramiaioiPote.text = ""
 
 heHE.ChairoisAnassa.notmetered = "N/M (Theotokos, rejoice! Queen of all.)"
 heHE.ChairoisAnassa.greekname = ""
@@ -179,7 +179,7 @@ heHE.CheirasEkpetasasDaniil.incipit = "Daniel shut…"
 heHE.CheirasEkpetasasDaniil.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.CheirasEkpetasasDaniil.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.CheirasEkpetasasDaniil.ode = miscellanea_en_US_acook.misc.Ode8
-heHE.CheirasEkpetasasDaniil.text = "Daniel shut the lions' gaping mouths inside the den, of old, by stretching out his hands. * The Servants girt themselves with virtue; * and, as lovers of godliness, * they put out the mighty fire * in the furnace, and cried aloud, * singing, \"Bless the Lord, all you works of the Lord.\""
+heHE.CheirasEkpetasasDaniil.text = ""
 
 heHE.ChoroiIsrail.notmetered = "N/M (When the hosts of Israel.)"
 heHE.ChoroiIsrail.greekname = ""
@@ -188,7 +188,7 @@ heHE.ChoroiIsrail.incipit = "When the hosts of Israel…"
 heHE.ChoroiIsrail.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.ChoroiIsrail.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.ChoroiIsrail.ode = miscellanea_en_US_acook.misc.Ode1
-heHE.ChoroiIsrail.text = "When the hosts of Israel crossed the Red Sea, * passing through the midst of the sea on foot, and did not get wet, * they beheld Pharaoh's army, * the horsemen and chosen captains, submerged beneath the waters. * With great rejoicing they sang this song, * \"Let us sing to our God, for He is greatly glorified.\""
+heHE.ChoroiIsrail.text = ""
 
 heHE.ChristosOErchomenos.notmetered = "N/M (Our visibly coming God.)"
 heHE.ChristosOErchomenos.greekname = ""
@@ -197,7 +197,7 @@ heHE.ChristosOErchomenos.incipit = "Our visibly coming God…"
 heHE.ChristosOErchomenos.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.ChristosOErchomenos.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.ChristosOErchomenos.ode = miscellanea_en_US_acook.misc.Ode4
-heHE.ChristosOErchomenos.text = "Our visibly coming God, Christ, will come and not delay, * being the Son of a virgin Maiden, * who is likened to a mountain, overshadowed and densely wooded. * So said a Prophet of old. * Therefore let us all cry out, * Glory to Your power, O Lord our God."
+heHE.ChristosOErchomenos.text = ""
 
 heHE.DiAgapisinOiktirmon.notmetered = "N/M ()"
 heHE.DiAgapisinOiktirmon.greekname = ""
@@ -215,7 +215,7 @@ heHE.EffrainetaiEpiSoi.incipit = "Your Church rejoices in You…"
 heHE.EffrainetaiEpiSoi.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.EffrainetaiEpiSoi.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.EffrainetaiEpiSoi.ode = miscellanea_en_US_acook.misc.Ode3
-heHE.EffrainetaiEpiSoi.text = "Your Church rejoices in You, O Christ our God, and she cries out to You, * \"You are my mighty strength, O Lord, * and You are my refuge and firm support.\""
+heHE.EffrainetaiEpiSoi.text = ""
 
 heHE.EffranthitiIerousalim.notmetered = "N/M (Rejoice, O Jerusalem.)"
 heHE.EffranthitiIerousalim.greekname = ""
@@ -224,7 +224,7 @@ heHE.EffranthitiIerousalim.incipit = "Rejoice, O Jerusalem…"
 heHE.EffranthitiIerousalim.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.EffranthitiIerousalim.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.EffranthitiIerousalim.ode = miscellanea_en_US_acook.misc.Ode8
-heHE.EffranthitiIerousalim.text = "Rejoice, O Jerusalem, be glad. * And all you lovers of Zion, keep feast in her and rejoice. * For He has come who rules as King unto eternity; He is Lord of the powers. * And let all the earth stand in awe * at His presence and shout with a loud voice, * \"O all you works of the Lord, praise and bless the Lord.\""
+heHE.EffranthitiIerousalim.text = ""
 
 heHE.EisakikoaKyrie.notmetered = "N/M ()"
 heHE.EisakikoaKyrie.greekname = ""
@@ -260,7 +260,7 @@ heHE.EisakikoaTinEndoxon.incipit = "I have heard about Your glorious…"
 heHE.EisakikoaTinEndoxon.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.EisakikoaTinEndoxon.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.EisakikoaTinEndoxon.ode = miscellanea_en_US_acook.misc.Ode4
-heHE.EisakikoaTinEndoxon.text = "I have heard about Your glorious divine economy, O Christ my God, * that You were born of the virgin Maiden, * so as to free from error those who cry to You, * Glory to Your power, O Lord my God."
+heHE.EisakikoaTinEndoxon.text = ""
 
 heHE.EkNyktosOrthrizonta.notmetered = "N/M ()"
 heHE.EkNyktosOrthrizonta.greekname = ""
@@ -323,7 +323,7 @@ heHE.EnTiKaminoAvramiaioi.incipit = "Inside the furnace…"
 heHE.EnTiKaminoAvramiaioi.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.EnTiKaminoAvramiaioi.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.EnTiKaminoAvramiaioi.ode = miscellanea_en_US_acook.misc.Ode7
-heHE.EnTiKaminoAvramiaioi.text = "Inside the furnace * in Persia, those descendants of Abraham * were with love and longing for godliness consumed * rather than by fire, and they cried, * \"You are blessed, O Lord, * in the holy temple of Your glory.\""
+heHE.EnTiKaminoAvramiaioi.text = ""
 
 heHE.EnToThlivesthaiMe.notmetered = "N/M (When I was afflicted.)"
 heHE.EnToThlivesthaiMe.greekname = ""
@@ -332,7 +332,7 @@ heHE.EnToThlivesthaiMe.incipit = "When I was afflicted…"
 heHE.EnToThlivesthaiMe.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.EnToThlivesthaiMe.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.EnToThlivesthaiMe.ode = miscellanea_en_US_acook.misc.Ode6
-heHE.EnToThlivesthaiMe.text = "When I was afflicted, I cried out to the Lord my God, * the Lord of Deliverance. I prayed and He heard my voice."
+heHE.EnToThlivesthaiMe.text = ""
 
 heHE.EparthentaSeIdousa.notmetered = "N/M (When the Church.)"
 heHE.EparthentaSeIdousa.greekname = ""
@@ -341,7 +341,7 @@ heHE.EparthentaSeIdousa.incipit = "When the Church beheld You…"
 heHE.EparthentaSeIdousa.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.EparthentaSeIdousa.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.EparthentaSeIdousa.ode = miscellanea_en_US_acook.misc.Ode4
-heHE.EparthentaSeIdousa.text = "When the Church beheld You raised on the Cross unjustly, * O Christ, the Sun of Righteousness, crucified for our sake, * she stood in her course, like the moon, * and fittingly cried aloud, * \"Glory to Your strength, O Lord!\""
+heHE.EparthentaSeIdousa.text = ""
 
 heHE.EpoiiseKratos.notmetered = "N/M ()"
 heHE.EpoiiseKratos.greekname = ""
@@ -391,7 +391,7 @@ heHE.EvaMenToTisParakois.incipit = "Because of the malady…"
 heHE.EvaMenToTisParakois.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.EvaMenToTisParakois.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.EvaMenToTisParakois.ode = miscellanea_en_US_acook.misc.Ode9
-heHE.EvaMenToTisParakois.text = "Because of the malady of disobedience, Eve received the curse within herself. * But you, O Virgin Theotokos, have blossomed forth the blessing to all the world, * by means of the One who sprang from your pregnancy. * And therefore you do we all magnify."
+heHE.EvaMenToTisParakois.text = ""
 
 heHE.EvergetaChristePantodyname.notmetered = "N/M ()"
 heHE.EvergetaChristePantodyname.greekname = ""
@@ -418,7 +418,7 @@ heHE.EvoisanEnEffrosyni.incipit = "The spirits of the righteous…"
 heHE.EvoisanEnEffrosyni.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.EvoisanEnEffrosyni.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.EvoisanEnEffrosyni.ode = miscellanea_en_US_acook.misc.Ode6
-heHE.EvoisanEnEffrosyni.text = "The spirits of the righteous exultantly cried aloud. * Now is granted to the world a covenant that is new. * And through sprinkling with the divine Blood, let the people be renewed."
+heHE.EvoisanEnEffrosyni.text = ""
 
 heHE.EvoiseProtypon.notmetered = "N/M (Prefiguing in the whale.)"
 heHE.EvoiseProtypon.greekname = ""
@@ -427,7 +427,7 @@ heHE.EvoiseProtypon.incipit = "Prefiguing in the whale…"
 heHE.EvoiseProtypon.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.EvoiseProtypon.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.EvoiseProtypon.ode = miscellanea_en_US_acook.misc.Ode6
-heHE.EvoiseProtypon.text = "Prefiguring * in the whale the divine three-day burial, * Prophet Jonah cried aloud, * in affliction beseeching God: * From corruption save me, * O Lord Jesus the King of angelic hosts."
+heHE.EvoiseProtypon.text = ""
 
 heHE.ExestiTaSympanta.notmetered = "N/M (Amazed was the universe.)"
 heHE.ExestiTaSympanta.greekname = ""
@@ -436,7 +436,7 @@ heHE.ExestiTaSympanta.incipit = "Amazed was the universe…"
 heHE.ExestiTaSympanta.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.ExestiTaSympanta.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.ExestiTaSympanta.ode = miscellanea_en_US_acook.misc.Ode5
-heHE.ExestiTaSympanta.text = "Amazed was the universe by your divine magnificence. * You who were perpetually virgin * carried the heavenly God of all in your womb * and gave birth to the eternal Son, * who awards salvation to all who sing hymns of praise to you."
+heHE.ExestiTaSympanta.text = ""
 
 heHE.ExestiTaSympanta_Eisodia.notmetered = "N/M (Amazed was the universe.)"
 heHE.ExestiTaSympanta_Eisodia.greekname = ""
@@ -445,7 +445,7 @@ heHE.ExestiTaSympanta_Eisodia.incipit = "Amazed was the universe…"
 heHE.ExestiTaSympanta_Eisodia.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.ExestiTaSympanta_Eisodia.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.ExestiTaSympanta_Eisodia.ode = miscellanea_en_US_acook.misc.Ode5
-heHE.ExestiTaSympanta_Eisodia.text = "Amazed was the universe, * O Maiden, by your most august * Entry. For, O never-wedded Virgin, * you who appeared as a most pure temple yourself * did enter the Temple of God, * now awarding peace to all who extol you with hymns of praise."
+heHE.ExestiTaSympanta_Eisodia.text = ""
 
 heHE.ExestiTaSympanta_Koimisis.notmetered = "N/M (Amazed was the universe.)"
 heHE.ExestiTaSympanta_Koimisis.greekname = ""
@@ -454,7 +454,7 @@ heHE.ExestiTaSympanta_Koimisis.incipit = "Amazed was the universe…"
 heHE.ExestiTaSympanta_Koimisis.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.ExestiTaSympanta_Koimisis.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.ExestiTaSympanta_Koimisis.ode = miscellanea_en_US_acook.misc.Ode5
-heHE.ExestiTaSympanta_Koimisis.text = "Amazed was the universe * by your august Dormition. * You who were perpetually virgin * carried the heavenly God of all in your womb * and gave birth to the eternal Son, * who awards salvation to all who sing hymns of praise to you."
+heHE.ExestiTaSympanta_Koimisis.text = ""
 
 heHE.GiKaiPantaTaEnAfti.notmetered = "N/M ()"
 heHE.GiKaiPantaTaEnAfti.greekname = ""
@@ -504,7 +504,7 @@ heHE.LithosAcheirotmitos.incipit = "A cornerstone was cut out…"
 heHE.LithosAcheirotmitos.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.LithosAcheirotmitos.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.LithosAcheirotmitos.ode = miscellanea_en_US_acook.misc.Ode9
-heHE.LithosAcheirotmitos.text = "A cornerstone was cut out without hands * from a never-quarried mountain, * which prefigured you, holy Virgin. * The stone is Christ, who joined the disparate natures. * As we rejoice because of this, O Theotokos, we magnify you."
+heHE.LithosAcheirotmitos.text = ""
 
 heHE.LogouTheouAfraston.notmetered = "N/M ()"
 heHE.LogouTheouAfraston.greekname = ""
@@ -550,7 +550,7 @@ heHE.LytrotaTouPantos.incipit = "N/M…"
 heHE.LytrotaTouPantos.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.LytrotaTouPantos.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.LytrotaTouPantos.ode = miscellanea_en_US_acook.misc.Ode8
-heHE.LytrotaTouPantos.text = "O almighty Redeemer, You came down and refreshed the godly Servants who stood in the midst of flame, and You taught them to sing: \"Bless the Lord and sing a hymn to Him, O all you works of the Lord.\""
+heHE.LytrotaTouPantos.text = ""
 
 heHE.MegalynomenPantes.notmetered = "N/M ()"
 heHE.MegalynomenPantes.greekname = ""
@@ -559,7 +559,7 @@ heHE.MegalynomenPantes.incipit = "…"
 heHE.MegalynomenPantes.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.MegalynomenPantes.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.MegalynomenPantes.ode = miscellanea_en_US_acook.misc.Ode9
-heHE.MegalynomenPantes.text = "We all magnify Your love for humanity, O Lord our Savior. You are the glory of Your servants, the crown of the believers. You magnified the memory of You Mother."
+heHE.MegalynomenPantes.text = ""
 
 heHE.MetaTokonSeAgni.notmetered = "N/M ()"
 heHE.MetaTokonSeAgni.greekname = ""
@@ -604,7 +604,7 @@ heHE.NaousanAkrotomon.incipit = "The people of Israel…"
 heHE.NaousanAkrotomon.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.NaousanAkrotomon.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.NaousanAkrotomon.ode = miscellanea_en_US_acook.misc.Ode3
-heHE.NaousanAkrotomon.text = "The people of Israel did suckle the rock, * which though firm and flinty was flowing with water at Your command. * And the rock are You O Christ; You also are the life, * in Whom the Church was firmly established, crying out to You: * Hosanna, blessed are You, the One who is coming."
+heHE.NaousanAkrotomon.text = ""
 
 heHE.NeoiTreisEnVavyloni.notmetered = "N/M ()"
 heHE.NeoiTreisEnVavyloni.greekname = ""
@@ -631,7 +631,7 @@ heHE.OAnateilasToFos.incipit = "You made the light…"
 heHE.OAnateilasToFos.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.OAnateilasToFos.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.OAnateilasToFos.ode = miscellanea_en_US_acook.misc.Ode5
-heHE.OAnateilasToFos.text = "You made the light to rise up * and illumined the morning * and showed the dawn and daybreak. * Jesus, glory to You, * who loves humankind. * O Son of God, glory to You!"
+heHE.OAnateilasToFos.text = ""
 
 heHE.ODiasosasEnPyri.notmetered = "N/M (You saved Your Servants.)"
 heHE.ODiasosasEnPyri.greekname = ""
@@ -640,7 +640,7 @@ heHE.ODiasosasEnPyri.incipit = "You saved Your Servants…"
 heHE.ODiasosasEnPyri.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.ODiasosasEnPyri.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.ODiasosasEnPyri.ode = miscellanea_en_US_acook.misc.Ode7
-heHE.ODiasosasEnPyri.text = "You saved Your Servants in the fire, * Abraham's three youthful descendants; * and the Chaldeans You destroyed, * for they plotted unjustly against the just. * O supremely extolled and praised * Lord, the God of our fathers, You are blessed."
+heHE.ODiasosasEnPyri.text = ""
 
 heHE.OEnArchiAnarchos.notmetered = "N/M ()"
 heHE.OEnArchiAnarchos.greekname = ""
@@ -667,7 +667,7 @@ heHE.OKathimenosEnDoxi.incipit = "He who sits in holy glory…"
 heHE.OKathimenosEnDoxi.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.OKathimenosEnDoxi.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.OKathimenosEnDoxi.ode = miscellanea_en_US_acook.misc.Ode4
-heHE.OKathimenosEnDoxi.text = "He who sits in holy glory * on the throne of divinity, * Jesus our most high God, * on a swift and light cloud has come to us, * and by the might of His undefiled hand has saved * those who cry to Him: Glory to Your power, O Christ."
+heHE.OKathimenosEnDoxi.text = ""
 
 heHE.OKtisamenosImas.notmetered = "N/M ()"
 heHE.OKtisamenosImas.greekname = ""
@@ -712,7 +712,7 @@ heHE.OTokosSouAfthoros.incipit = "Your childbirth occurred…"
 heHE.OTokosSouAfthoros.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.OTokosSouAfthoros.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.OTokosSouAfthoros.ode = miscellanea_en_US_acook.misc.Ode9
-heHE.OTokosSouAfthoros.text = "Your childbirth occurred without corruption. * It was God, wearing flesh, who came forth from your all-holy womb. * He was seen upon the earth and lived among men, O Theotokos; * therefore we all magnify you."
+heHE.OTokosSouAfthoros.text = ""
 
 heHE.OTonPateronTheos.notmetered = "N/M ()"
 heHE.OTonPateronTheos.greekname = ""
@@ -730,7 +730,7 @@ heHE.OTouFotosDiatmixas.incipit = "You divided the light…"
 heHE.OTouFotosDiatmixas.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.OTouFotosDiatmixas.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.OTouFotosDiatmixas.ode = miscellanea_en_US_acook.misc.Ode5
-heHE.OTouFotosDiatmixas.text = "You divided the light from the primordial darkness, * so that Your works, in the light, may sing praises to You, * the Creator, O Christ. * We now entreat You: * In Your light make straight our ways."
+heHE.OTouFotosDiatmixas.text = ""
 
 heHE.OfthisanAiPigai.notmetered = "N/M (Once deprived of their waters.)"
 heHE.OfthisanAiPigai.greekname = ""
@@ -739,7 +739,7 @@ heHE.OfthisanAiPigai.incipit = "Once deprived of their waters…"
 heHE.OfthisanAiPigai.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.OfthisanAiPigai.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.OfthisanAiPigai.ode = miscellanea_en_US_acook.misc.Ode1
-heHE.OfthisanAiPigai.text = "Once deprived of their waters, the channels of the abyss were seen, * and uncovered were the foundations * of the undulating red sea; * for You rebuked that famous sea's tempest by Your almighty nod, * and You saved the people that belonged to You, * as they sang a victorious hymn unto You, O Lord."
+heHE.OfthisanAiPigai.text = ""
 
 heHE.OiEnVavyloniPaides.notmetered = "N/M (Once in Babylon.)"
 heHE.OiEnVavyloniPaides.greekname = ""
@@ -748,7 +748,7 @@ heHE.OiEnVavyloniPaides.incipit = "Once in Babylon…"
 heHE.OiEnVavyloniPaides.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.OiEnVavyloniPaides.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.OiEnVavyloniPaides.ode = miscellanea_en_US_acook.misc.Ode8
-heHE.OiEnVavyloniPaides.text = "Once in Babylon, those Servants, * on fire with divine zeal and longing, * courageously defying the threat * of both the tyrant and the flame, * were thrown into the midst of the furnace. * As they were refreshed with dew, * they were singing, \"O all you works of the Lord, praise and bless the Lord.\""
+heHE.OiEnVavyloniPaides.text = ""
 
 heHE.OrthronFaeinon.notmetered = "N/M ()"
 heHE.OrthronFaeinon.greekname = ""
@@ -766,7 +766,7 @@ heHE.OsEmpsychoTheouKivoto.incipit = "Now let no uninitiated hand…"
 heHE.OsEmpsychoTheouKivoto.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.OsEmpsychoTheouKivoto.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.OsEmpsychoTheouKivoto.ode = miscellanea_en_US_acook.misc.Ode9
-heHE.OsEmpsychoTheouKivoto.text = "Now let no uninitiated hand * approach the living Ark of God to touch it. * Rather let believers' lips sing out in exultation * the Angel's salutation unceasingly * to the Theotokos and cry out: * You, O pure and virgin Maiden, are truly superior to all."
+heHE.OsEmpsychoTheouKivoto.text = ""
 
 heHE.OsEmpsychoTheouKivoto_Annunciation.notmetered = "N/M (Now let no uninitiated hand.)"
 heHE.OsEmpsychoTheouKivoto_Annunciation.greekname = ""
@@ -775,7 +775,7 @@ heHE.OsEmpsychoTheouKivoto_Annunciation.incipit = "Now let no uninitiated hand�
 heHE.OsEmpsychoTheouKivoto_Annunciation.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.OsEmpsychoTheouKivoto_Annunciation.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.OsEmpsychoTheouKivoto_Annunciation.ode = miscellanea_en_US_acook.misc.Ode9
-heHE.OsEmpsychoTheouKivoto_Annunciation.text = "Now let no uninitiated hand * approach the living Ark of God to touch it. * Rather let believers' lips sing out in exultation * the Angel's salutation unceasingly * to the Theotokos and cry out: * Rejoice, Maiden full of grace! The Lord is with you."
+heHE.OsEmpsychoTheouKivoto_Annunciation.text = ""
 
 heHE.OsIonanTonProfitin.notmetered = "N/M ()"
 heHE.OsIonanTonProfitin.greekname = ""
@@ -802,7 +802,7 @@ heHE.OtiSteiraEteken.incipit = "N/M…"
 heHE.OtiSteiraEteken.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.OtiSteiraEteken.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.OtiSteiraEteken.ode = miscellanea_en_US_acook.misc.Ode3
-heHE.OtiSteiraEteken.text = "The barren Church of the Gentiles has produced children, and the synagogue with many children has become weak. Therefore let us cry out to our wonderful God: \"Holy are You, O Lord.\""
+heHE.OtiSteiraEteken.text = ""
 
 heHE.OukElatrefsan.notmetered = "N/M (Godly-minded three.)"
 heHE.OukElatrefsan.greekname = ""
@@ -811,7 +811,7 @@ heHE.OukElatrefsan.incipit = "Godly-minded three…"
 heHE.OukElatrefsan.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.OukElatrefsan.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.OukElatrefsan.ode = miscellanea_en_US_acook.misc.Ode7
-heHE.OukElatrefsan.text = "Godly-minded three * did not adore created things in the Creator's stead; * rather, disdaining the threat * of fire, they trampled it, and joyfully they sang: * \"O supremely praised * and most exalted Lord and God * of the fathers, You are blessed.\""
+heHE.OukElatrefsan.text = ""
 
 heHE.OukEnSofia.notmetered = "N/M (Not in our wisdom.)"
 heHE.OukEnSofia.greekname = ""
@@ -820,7 +820,7 @@ heHE.OukEnSofia.incipit = "Not in our wisdom…"
 heHE.OukEnSofia.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.OukEnSofia.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.OukEnSofia.ode = miscellanea_en_US_acook.misc.Ode3
-heHE.OukEnSofia.text = "Not in our wisdom, * nor in power and wealth do we boast, O Lord; * but we boast in You, the Father's personified Wisdom, O Christ. * No one else is holy but for You who love mankind."
+heHE.OukEnSofia.text = ""
 
 heHE.OukEstiSoiOmoios.notmetered = "N/M ()"
 heHE.OukEstiSoiOmoios.greekname = ""
@@ -847,7 +847,7 @@ heHE.PaidasEvageis.incipit = "Guiltless were those Servants…"
 heHE.PaidasEvageis.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.PaidasEvageis.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.PaidasEvageis.ode = miscellanea_en_US_acook.misc.Ode8
-heHE.PaidasEvageis.text = "Guiltless were those Servants in the furnace. * The Son of the Theotokos went and rescued them. * He who was prefigured then, * having been incarnate now, * is gathering the whole wide world into His Church to sing: * \"O all you works of the Lord, to all ages * sing praises to the Lord and exalt Him beyond measure.\""
+heHE.PaidasEvageis.text = ""
 
 heHE.PantaTaErgaTouTheou.notmetered = "N/M ()"
 heHE.PantaTaErgaTouTheou.greekname = ""
@@ -901,7 +901,7 @@ heHE.SyKyrieMouFos.incipit = "My Lord, You are the light…"
 heHE.SyKyrieMouFos.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.SyKyrieMouFos.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.SyKyrieMouFos.ode = miscellanea_en_US_acook.misc.Ode5
-heHE.SyKyrieMouFos.text = "My Lord, You are the light that has come to the world: holy light, * to restore us from the darkness of ignorance, * as we sing Your praises faithfully."
+heHE.SyKyrieMouFos.text = ""
 
 heHE.SymfononEthroisen.notmetered = "N/M (Instruments were played.)"
 heHE.SymfononEthroisen.greekname = ""
@@ -933,7 +933,7 @@ heHE.ThalassisToErythraion.incipit = "The Red Sea was crossed…"
 heHE.ThalassisToErythraion.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.ThalassisToErythraion.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.ThalassisToErythraion.ode = miscellanea_en_US_acook.misc.Ode1
-heHE.ThalassisToErythraion.text = "The Red Sea was crossed by ancient Israel. They walked across dry ground, * when Moses stretched his hand over the sea * with his rod, in the form of a cross; * and likewise in the wilderness, they put to flight the hosts of Amalek."
+heHE.ThalassisToErythraion.text = ""
 
 heHE.TheioKalyftheis.notmetered = "N/M (Long ago, Moses.)"
 heHE.TheioKalyftheis.greekname = ""
@@ -956,7 +956,7 @@ heHE.TheosKyriosKaiEpefanenImin.incipit = "God is the Lord…"
 heHE.TheosKyriosKaiEpefanenImin.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.TheosKyriosKaiEpefanenImin.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.TheosKyriosKaiEpefanenImin.ode = miscellanea_en_US_acook.misc.Ode9
-heHE.TheosKyriosKaiEpefanenImin.text = "God is the Lord, and He appeared to us. * O Christians, appoint a feast, and with exultant joy * come and let us magnify the Christ, * waving our palm-leaves and branches, crying aloud in hymns: * \"Blessed is the One who comes * in the name of the Lord our Savior.\""
+heHE.TheosKyriosKaiEpefanenImin.text = ""
 
 heHE.ThysoSoiMetaFonis.notmetered = "N/M (I will sacrifice to You.)"
 heHE.ThysoSoiMetaFonis.greekname = ""
@@ -965,7 +965,7 @@ heHE.ThysoSoiMetaFonis.incipit = "I will sacrifice to You…"
 heHE.ThysoSoiMetaFonis.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.ThysoSoiMetaFonis.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.ThysoSoiMetaFonis.ode = miscellanea_en_US_acook.misc.Ode6
-heHE.ThysoSoiMetaFonis.text = "\"I will sacrifice to You, O Lord, with a voice of praise.\" * So sings the Church You delivered * from the gore of sacrificing to demons; * for You cleansed her * by the blood that for mercy poured out from Your side."
+heHE.ThysoSoiMetaFonis.text = ""
 
 heHE.TiEikoniTiChrysi.notmetered = "N/M ()"
 heHE.TiEikoniTiChrysi.greekname = ""
@@ -983,7 +983,7 @@ heHE.TinAnexichniaston.incipit = "When the Prophet Habakkuk…"
 heHE.TinAnexichniaston.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.TinAnexichniaston.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.TinAnexichniaston.ode = miscellanea_en_US_acook.misc.Ode4
-heHE.TinAnexichniaston.text = "When the Prophet Habakkuk heard the divine * and incomprehensible counsel of Your Incarnation * from the Virgin, O Most High, * considering, he cried aloud: * Glory to Your power, O Lord my God."
+heHE.TinAnexichniaston.text = ""
 
 heHE.TinSionEpOrous.notmetered = "N/M (Herald of good tidings.)"
 heHE.TinSionEpOrous.greekname = ""
@@ -992,7 +992,7 @@ heHE.TinSionEpOrous.incipit = "Herald of good tidings…"
 heHE.TinSionEpOrous.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.TinSionEpOrous.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.TinSionEpOrous.ode = miscellanea_en_US_acook.misc.Ode5
-heHE.TinSionEpOrous.text = "Herald of good tidings to Zion, get you up on to a mountain high; * Prophet David, as Jerusalem's preacher, * raise your voice and mightily proclaim, * \"Glorious things have been related concerning You, O City of God. * Peace be on Israel, and salvation to the Gentiles.\""
+heHE.TinSionEpOrous.text = ""
 
 heHE.TinTheianTaftin.notmetered = "N/M (O godly-minded believers.)"
 heHE.TinTheianTaftin.greekname = ""
@@ -1001,7 +1001,7 @@ heHE.TinTheianTaftin.incipit = "O godly-minded believers…"
 heHE.TinTheianTaftin.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.TinTheianTaftin.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.TinTheianTaftin.ode = miscellanea_en_US_acook.misc.Ode6
-heHE.TinTheianTaftin.text = "O godly-minded believers, come * and celebrate this sacred and venerable feast and thus extol * the Theotokos, and clap our hands, * and glorify our God who was truly born of her."
+heHE.TinTheianTaftin.text = ""
 
 heHE.TisSisEpiGis.notmetered = "N/M ()"
 heHE.TisSisEpiGis.greekname = ""
@@ -1064,7 +1064,7 @@ heHE.TonEnMorfiAngelou.incipit = "The One appearing…"
 heHE.TonEnMorfiAngelou.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.TonEnMorfiAngelou.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.TonEnMorfiAngelou.ode = miscellanea_en_US_acook.misc.Ode8
-heHE.TonEnMorfiAngelou.text = "The One appearing in the fiery furnace * in the form of an Angel to those singers * was Christ our God. Sing His praises, * O you Servants, and bless Him, * you priests, and people highly * exalt Him to all ages."
+heHE.TonEnMorfiAngelou.text = ""
 
 heHE.TonEnToStavro.notmetered = "N/M ()"
 heHE.TonEnToStavro.greekname = ""
@@ -1118,7 +1118,7 @@ heHE.TousOuranousIAretiSou.incipit = "N/M…"
 heHE.TousOuranousIAretiSou.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.TousOuranousIAretiSou.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.TousOuranousIAretiSou.ode = miscellanea_en_US_acook.misc.Ode4
-heHE.TousOuranousIAretiSou.text = "Your virtue covered the heavens, and the earth was filled with Your glory, O Christ. We therefore cry unceasingly: Glory to Your power, O Lord!"
+heHE.TousOuranousIAretiSou.text = ""
 
 heHE.TousSousYmnologous.notmetered = "N/M (Establish your servants.)"
 heHE.TousSousYmnologous.greekname = ""
@@ -1127,7 +1127,7 @@ heHE.TousSousYmnologous.incipit = "Establish your servants…"
 heHE.TousSousYmnologous.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.TousSousYmnologous.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.TousSousYmnologous.ode = miscellanea_en_US_acook.misc.Ode3
-heHE.TousSousYmnologous.text = "Establish your servants who extol you, * O Mother of God, for they have formed * a spiritual choir for you * the living and abundant fount; * and graciously in your divine glory give glorious crowns to them."
+heHE.TousSousYmnologous.text = ""
 
 heHE.TousSousYmnologous_Eisodia.notmetered = "N/M (Establish your servants.)"
 heHE.TousSousYmnologous_Eisodia.greekname = ""
@@ -1136,7 +1136,7 @@ heHE.TousSousYmnologous_Eisodia.incipit = "Establish your servants…"
 heHE.TousSousYmnologous_Eisodia.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.TousSousYmnologous_Eisodia.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.TousSousYmnologous_Eisodia.ode = miscellanea_en_US_acook.misc.Ode3
-heHE.TousSousYmnologous_Eisodia.text = "Establish your servants who extol you, * O Mother of God, for they have formed * a spiritual choir for you * the living and abundant fount; * and graciously in your divine Entry give glorious crowns to them."
+heHE.TousSousYmnologous_Eisodia.text = ""
 
 heHE.TousSousYmnologous_Koimisis.notmetered = "N/M (Establish your servants.)"
 heHE.TousSousYmnologous_Koimisis.greekname = ""
@@ -1145,7 +1145,7 @@ heHE.TousSousYmnologous_Koimisis.incipit = "Establish your servants…"
 heHE.TousSousYmnologous_Koimisis.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.TousSousYmnologous_Koimisis.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.TousSousYmnologous_Koimisis.ode = miscellanea_en_US_acook.misc.Ode3
-heHE.TousSousYmnologous_Koimisis.text = "Establish your servants who extol you, * O Mother of God, for they have formed * a spiritual choir for you * the living and abundant fount; * in your august Dormition now also give glorious crowns to them."
+heHE.TousSousYmnologous_Koimisis.text = ""
 
 heHE.TousSousYmnologous_Syllipsis.notmetered = "N/M (Establish your servants.)"
 heHE.TousSousYmnologous_Syllipsis.greekname = ""
@@ -1154,7 +1154,7 @@ heHE.TousSousYmnologous_Syllipsis.incipit = "Establish your servants…"
 heHE.TousSousYmnologous_Syllipsis.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.TousSousYmnologous_Syllipsis.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.TousSousYmnologous_Syllipsis.ode = miscellanea_en_US_acook.misc.Ode3
-heHE.TousSousYmnologous_Syllipsis.text = "Establish your servants who extol you, * O Mother of God, for they have formed * a spiritual choir for you * the living and abundant fount; * in your divine Conception now also give glorious crowns to them."
+heHE.TousSousYmnologous_Syllipsis.text = ""
 
 heHE.ToxonDynatonIsthenise.notmetered = "N/M (Weakened is the bow.)"
 heHE.ToxonDynatonIsthenise.greekname = ""
@@ -1163,7 +1163,7 @@ heHE.ToxonDynatonIsthenise.incipit = "Weakened is the bow…"
 heHE.ToxonDynatonIsthenise.melody = miscellanea_en_US_acook.misc.Heirmos
 heHE.ToxonDynatonIsthenise.mode = miscellanea_en_US_acook.misc.Mode4
 heHE.ToxonDynatonIsthenise.ode = miscellanea_en_US_acook.misc.Ode3
-heHE.ToxonDynatonIsthenise.text = "Weakened is the bow of mighty men, * and those who are weak are girded with strength from our righteous God. * For this reason, as it is written, my heart is strengthened in the Lord."
+heHE.ToxonDynatonIsthenise.text = ""
 
 heHE.TristatasKrataious.notmetered = "N/M (I pray You to submerge.)"
 heHE.TristatasKrataious.greekname = "Τριστάτας κραταιούς."
