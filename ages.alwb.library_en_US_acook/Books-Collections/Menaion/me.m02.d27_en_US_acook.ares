@@ -83,7 +83,7 @@ meMA.Ode4C11.mode = miscellanea_en_US_acook.misc.Mode6
 meMA.Ode4C11.greekmelody = he.h.m6_en_US_acook.heHE.ChristosMouDynamis.greekname
 meMA.Ode4C11.melody = he.h.m6_en_US_acook.heHE.ChristosMouDynamis.name
 meMA.Ode4C11.incipit = "You cultivated seeds…"
-meMA.Ode4C11.text = "You cultivated seeds of virtues in your heart * irrigating your planting  with streams of tears * righteous one and blessed too * your tears flowed forth out of your thought * that was purified, Procopios."
+meMA.Ode4C11.text = "You cultivated seeds of virtues in your heart * irrigating your planting with streams of tears * righteous one and blessed too * your tears flowed forth out of your thought * that was purified, Procopios."
 
 meMA.Ode4C12.ode = miscellanea_en_US_acook.misc.Ode4
 meMA.Ode4C12.mode = miscellanea_en_US_acook.misc.Mode6
@@ -115,7 +115,7 @@ meMA.Ode5C11.mode = miscellanea_en_US_acook.misc.Mode6
 meMA.Ode5C11.greekmelody = he.h.m6_en_US_acook.heHE.ToTheioFengeiSou.greekname
 meMA.Ode5C11.melody = he.h.m6_en_US_acook.heHE.ToTheioFengeiSou.name
 meMA.Ode5C11.incipit = "You were made holy…"
-meMA.Ode5C11.text = "You were made holy by holy work, * and you were perfected when you shed your blood; * we honor you, righteous one. * For the just are faithfully celebrated with hymns *  and thus they are memorialized with songs of praise."
+meMA.Ode5C11.text = "You were made holy by holy work, * and you were perfected when you shed your blood; * we honor you, righteous one. * For the just are faithfully celebrated with hymns * and thus they are memorialized with songs of praise."
 
 meMA.Ode5C12.ode = miscellanea_en_US_acook.misc.Ode5
 meMA.Ode5C12.mode = miscellanea_en_US_acook.misc.Mode6
@@ -223,7 +223,7 @@ meMA.Ode8C13.ode = miscellanea_en_US_acook.misc.Ode8
 meMA.Ode8C13.mode = miscellanea_en_US_acook.misc.Mode6
 meMA.Ode8C13.melody = he.h.m6_en_US_acook.heHE.EkFlogosToisOsiois.name
 meMA.Ode8C13.incipit = "…"
-meMA.Ode8C13.text = "You armed yourself with might that God’s Spirit gave to you * and defeated the hosts of demonic wickedness; * so the gates of heaven have opened to welcome you;  * blessed saint we sing hymns of praise to Christ forever."
+meMA.Ode8C13.text = "You armed yourself with might that God’s Spirit gave to you * and defeated the hosts of demonic wickedness; * so the gates of heaven have opened to welcome you; * blessed saint we sing hymns of praise to Christ forever."
 
 meMA.Ode8C1T.ode = miscellanea_en_US_acook.misc.Ode8
 meMA.Ode8C1T.mode = miscellanea_en_US_acook.misc.Mode6
